@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RockPaperScissorsUnitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2015-08-14T21:15:21" hostname="Archanas-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="checkWinner_playersTie_true" classname="RockPaperScissorsUnitTest" time="0.001"/>
+  <testcase name="checkWinner_playerTwoWins_true" classname="RockPaperScissorsUnitTest" time="0.0"/>
+  <testcase name="checkWinner_scissorsBeatsPaper_true" classname="RockPaperScissorsUnitTest" time="0.0"/>
+  <testcase name="checkWinner_rockBeatsScissors_true" classname="RockPaperScissorsUnitTest" time="0.0"/>
+  <testcase name="computerChooses_shouldBeAString_true" classname="RockPaperScissorsUnitTest" time="0.0"/>
+  <testcase name="checkWinner_paperBeatsRock_true" classname="RockPaperScissorsUnitTest" time="0.0"/>
+  <system-out><![CDATA[Scissors
+Rock
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
